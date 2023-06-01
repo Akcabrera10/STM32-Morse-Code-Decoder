@@ -1,0 +1,11 @@
+main.c:119:5:_write	1
+main.c:130:5:main	2
+main.c:228:6:SystemClock_Config	3
+main.c:275:13:MX_USART2_UART_Init	2
+main.c:308:13:MX_GPIO_Init	1
+main.c:351:6:StartTask01	9
+main.c:399:6:StartTask02	5
+main.c:430:6:StartTask03	5
+main.c:466:6:StartTask04	5
+main.c:510:6:decodeMorse	4
+main.c:538:6:Error_Handler	1

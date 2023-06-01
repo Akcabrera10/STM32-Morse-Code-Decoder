@@ -1,0 +1,11 @@
+SETTINGS/MODIFICATIONS FOR LAB 3.
+1. Choose STM32F411E-DISCO as the board in STM32CUBEIDE
+2. Select proper GPIO pins and set them as output for the LED's, databrief: https://www.st.com/en/evaluation-tools/32f411ediscovery.html
+	PA0 - User button
+	PA4 - Task 2 LED
+	PA5 - Task 4 LED
+3. Set Clock Configuration to default.
+4. Select FreeRTOS as Middleware on set up, then generate code.
+5. Set proper LEDs on and off based on functionality needed, using the created FreeRTOS tasks.
+
+   
